@@ -8,7 +8,7 @@ Profile: [smenomer](https://leetcode.com/u/smenomer/)
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 5 |
+| Easy       | 6 |
 | Medium     | 3 |
 | Hard       | 0 |
-| **Total**  | **8** |
+| **Total**  | **9** |

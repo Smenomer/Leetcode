@@ -9,6 +9,6 @@ Profile: [smenomer](https://leetcode.com/u/smenomer/)
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 18 |
-| Medium     | 10 |
+| Medium     | 11 |
 | Hard       | 0 |
-| **Total**  | **28** |
+| **Total**  | **29** |
